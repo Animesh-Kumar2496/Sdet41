@@ -1,8 +1,8 @@
 import org.testng.annotations.Test;
 
-public class Practice2 {
+public class Practice2Test {
 	@Test
-	public Practice2() {
+	public void Practice2() {
 		System.out.println("practice2");
 		
 	}
